@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author simo laaouibi
+ * @author SIMO LAAOUIBI 
  */
 public interface IDao <T> {
     boolean create (T o);

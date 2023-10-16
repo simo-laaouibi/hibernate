@@ -15,7 +15,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author simo laaouibi
+ * @author SIMO LAAOUIBI
  */
 public class ProduitService implements IDao<Produit>{
     @Override

@@ -16,7 +16,7 @@ import javax.persistence.TemporalType;
 
 /**
  *
- * @author simo laaouibi
+ * @author SIMO LAAOUIBI 
  */
 @Entity
 public class Produit {

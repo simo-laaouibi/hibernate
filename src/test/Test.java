@@ -11,7 +11,7 @@ import ma.projet.service.ProduitService;
 
 /**
  *
- * @author simo laaouibi
+ * @author SIMO LAAOUIBI
  */
 public class Test {
 
