@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/services/LigneCommandeProduitService.java</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/services/ProduitService.java</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/test/Test.java</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/test/TestProduit.java</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/services/CommandeService.java</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/entities/Commande.java</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/entities/Produit.java</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/test/TestFindProduitByCommande.java</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/entities/LigneCommandeProduit.java</file>
+            <file>file:/C:/Users/Lachgar/Documents/NetBeansProjects/hibernate2/src/ma/projet/test/TestLigneCommandeProduit.java</file>
+        </group>
+    </open-files>
+</project-private>
