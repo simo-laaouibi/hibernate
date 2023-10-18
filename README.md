@@ -14,3 +14,6 @@ affichage des produit superieur au prix 100 :
 
 ![affichage des produits de prix superieure a 100](https://github.com/simo-laaouibi/hibernate/assets/148088062/1e93aa81-9d5b-4a1e-b503-9ebacf592e59)
 
+![base de donnes](https://github.com/simo-laaouibi/hibernate/assets/148088062/6aaf60dc-f6c7-4c6b-9b8b-ad0656fac6da)
+
+
