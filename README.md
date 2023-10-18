@@ -22,3 +22,11 @@ affichage des produit superieur au prix 100 :
 
 ![table hib4](https://github.com/simo-laaouibi/hibernate/assets/148088062/c756256a-8f33-438c-84ad-9bfcd892e2e0)
 
+
+//h2
+
+<img width="563" alt="table h2" src="https://github.com/simo-laaouibi/hibernate/assets/148088062/937d4149-871b-4614-9588-24f8e4aa6826">
+
+
+
+
