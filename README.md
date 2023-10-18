@@ -17,3 +17,6 @@ affichage des produit superieur au prix 100 :
 ![base de donnes](https://github.com/simo-laaouibi/hibernate/assets/148088062/6aaf60dc-f6c7-4c6b-9b8b-ad0656fac6da)
 
 
+//tar
+![table hib4](https://github.com/simo-laaouibi/hibernate/assets/148088062/c756256a-8f33-438c-84ad-9bfcd892e2e0)
+
