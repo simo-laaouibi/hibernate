@@ -24,6 +24,11 @@ affichage des produit superieur au prix 100 :
 
 
 # h2
+Ce projet comprend deux couches - la couche de persistance et la couche de service.
+-Couche de persistance
+Développer des classes d'entité dans le package 'ma.projet.classes'. Créer le fichier de configuration Hibernate 'hibernate.cfg.xml' dans le package 'ma.projet.config'. Créer la classe 'HibernateUtil' dans le package 'ma.projet.util'.
+-Couche de service
+Créer l'interface générique 'IDao' dans le package 'ma.projet.dao'. Créer des classes de service qui implémentent l'interface 'IDao' dans le package 'ma.projet.service'. Implémenter des méthodes pour afficher différentes fonctionnalités telles que la liste des produits par catégorie, les produits commandés entre des dates spécifiques et les produits dont le prix est supérieur à 100.
 
 
 
